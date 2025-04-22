@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "aiprocafe.in",
+  "Id": "310c59b2-d740-4f8c-ac37-8112a709d85c"
+}
